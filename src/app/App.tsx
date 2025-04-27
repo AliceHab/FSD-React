@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom'
 import 'app/styles/index.scss'
 import { useTheme } from './providers/ThemeProvider/lib/useTheme'
 import { classNames as cls } from 'shared/lib/classNames/classNames'
